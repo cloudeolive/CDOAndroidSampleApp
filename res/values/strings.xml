@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">CDO Sample App</string>
+
+  <string name="default_room">174.127.76.179:443/room1</string>
+
+  <string name="ec_prompt">AEC:</string>
+
+  <string-array name="ec_arrays">
+    <item>Disabled</item>
+    <item>Quiet Earpiece or Headset</item>
+    <item>Earpiece</item>
+    <item>Loud Earpiece</item>
+    <item>Speakerphone</item>
+    <item>Loud Speakerphone</item>
+  </string-array>
+
+  <string name="ns_prompt">NS:</string>
+
+  <string-array name="ns_arrays">  
+    <item>Disabled</item>
+    <item>Default</item>
+    <item>Conference</item>
+    <item>Low Suppression</item>
+    <item>Moderate Suppression</item>
+    <item>High Suppression</item>
+    <item>Very High Suppression</item>
+  </string-array>
+
+  <string name="agc_prompt">AGC:</string>
+  <string name="sdk_version_label">SDK Version: </string>
+  <string name="init_cloudeo_label">Initializing Cloudeo ...</string>
+
+  <string-array name="agc_arrays">
+    <item>Disabled</item>
+    <item>Default</item>
+    <item>Adaptive Analog</item>
+    <item>Adaptive Digital</item>
+    <item>Fixed Digital</item>
+  </string-array>
+
+</resources>
